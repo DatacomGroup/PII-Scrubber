@@ -1,0 +1,9 @@
+{
+    "openai": {
+      "api_key": "ae89c31556bd40c6b5bbc38676674539",
+      "api_type": "azure",
+      "api_base": "https://iaoaitest.openai.azure.com/",
+      "api_version": "2023-07-01-preview",
+      "azure_endpoint": "https://iaoaitest.openai.azure.com/openai/deployments/gpt35test/chat/completions?api-version=2023-07-01-preview"
+    }
+}

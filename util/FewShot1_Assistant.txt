@@ -1,0 +1,20 @@
+{
+  "Phone numbers": ["021-022-3421"],
+  "Email address": ["John.Smith@hotmail.com"],
+  "Street address": ["123 Panorama Road"],
+  "Suburbs": ["Mt Wellington"],
+  "Cities": ["Auckland"],
+  "Postcodes": ["1062"],
+  "People names": ["John Smith", "Jane Doe"],
+  "Company names": ["Sunshine Marketing Agency", "Digital Dynamics Inc."],
+  "URLs": ["LinkedIn"],
+  "Server names": "N/A",
+  "Credit card number": "N/A",
+  "Bank account number": "N/A",
+  "IP address": "N/A",
+  "Usernames": "N/A",
+  "Passwords": "N/A",
+  "Passport numbers": "N/A",
+  "Driver’s license number": "N/A",
+  "Dates": ["sept 25, 2023", "21/10/1993"]
+}
